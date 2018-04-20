@@ -1,0 +1,8 @@
+{
+  "@class": "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId": "^(http)://ivo.sso.com:8088/demo2/*",
+  "name": "Demo2服务",
+  "id": 10000004,
+  "description": "这是一个本地允许的服务demo2，通过localhost访问都允许通过",
+  "evaluationOrder": 1
+}
